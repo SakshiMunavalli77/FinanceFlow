@@ -71,6 +71,25 @@ financely/
 
 ---
 
+## 📈 Future Enhancements 
+
+I am open to suggestions and plan to continue developing this application with new ideas, such as: - Budget notifications and reminders - Dark mode theme support - Currency conversion - Advanced analytics (e.g. spending trends) - Mobile responsiveness improvements 
+
+---
+
+## 📽️ Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/qThq0x8-XFU/0.jpg)](https://youtu.be/qThq0x8-XFU) > Click the image above or [watch the demo on YouTube](https://youtu.be/qThq0x8-XFU) 
+
+---
+## 👤 Contact
+
+**Name:** Sakshi Munavalli 
+**Email:** [sakshimunavalli77@gmail.com](mailto:sakshimunavalli77@gmail.com) 
+Feel free to reach out if you have any questions
+
+---
+
 ##  Setup Instructions
 
 ### 📁 Clone the Repo
