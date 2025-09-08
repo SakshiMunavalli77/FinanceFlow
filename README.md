@@ -71,33 +71,14 @@ financely/
 
 ---
 
-## 📁 Setup Instructions
+##  Setup Instructions
 
-### 1. Clone the Repo
+### 📁 Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/SakshiMunavalli77/FinanceFlow.git
+cd FinanceFlow
+
 
 ---
 
-## Future Enhancements
-
-I am open to suggestions and plan to continue developing this application with new ideas!
-
----
-
-## Demo Video
-
-[![Watch the demo](https://youtu.be/qThq0x8-XFU?si=0hEFJ_bVSQ1_pQ-w)
-
----
-
-## Contact
-
-Name : Sakshi Munavalli 
-Email: sakshimunavalli77@gmail.com  
-
-Feel free to reach out if you have any questions or feedback!
-
----
