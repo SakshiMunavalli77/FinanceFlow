@@ -1,4 +1,4 @@
-# 💸 Finance Dashboard – React + Firebase + Chart.js
+#  Finance Dashboard – React + Firebase + Chart.js
 
 This is a personal **Finance Tracker Dashboard** built with React, Firebase, and Chart.js. It helps you track **income**, **expenses**, and **savings goals**, and visualizes your financial data using **interactive charts** (Pie + Bar).
 
