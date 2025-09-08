@@ -1,0 +1,56 @@
+.chart-wrapper {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.chart-filters {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.chart-filter-group {
+  display: flex;
+  flex-direction: column;
+  font-size: 14px;
+  min-width: 150px;
+}
+
+.chart-filter-group label {
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #333;
+}
+.pie-chart-section {
+  max-width: 250px; /* smaller width for Pie chart */
+}
+
+.chart-row {
+  display: flex;
+  justify-content: center;
+  gap: 6rem;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.chart-section {
+  flex: 1 1 300px;
+  max-width: 400px;
+  text-align: center;
+ margin-inline: 1rem;
+}
+
+.bar-chart-section {
+  max-width: 800px; 
+}
+
+.chart-section h3 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  color: #333;
+}

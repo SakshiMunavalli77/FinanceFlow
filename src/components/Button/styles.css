@@ -1,0 +1,37 @@
+.btn {
+    width: 100%;
+    margin: 1rem 0;
+    padding: 0.75rem;
+    background-color: #fff;
+    border: 1px solid var(--theme);
+    border-radius: 0.25rem;
+    color: var(--theme);
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect for default button */
+.btn:hover {
+    background-color: var(--theme);
+    color: #fff;
+}
+
+/* Blue button variant */
+.btn-blue {
+    background-color: var(--theme);
+    color: #fff;
+    border: 1px solid var(--theme);
+}
+
+/* Hover effect for blue button */
+.btn-blue:hover {
+    background-color: #fff;
+    color: var(--theme);
+}
