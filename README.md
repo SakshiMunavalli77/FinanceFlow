@@ -4,15 +4,32 @@ This is a personal **Finance Tracker Dashboard** built with React, Firebase, and
 
 ---
 
-## 🔧 Features
+## Features
 
-✅ Add Income and Expenses  
-✅ Filter Transactions by Month & Category  
-✅ Pie Chart for Expenses by Category  
-✅ Bar Chart for Net Monthly Cash Flow  
-✅ Set and Track Savings Goals  
-✅ Firebase Auth & Firestore Database  
-✅ Fully Responsive & Mobile Friendly
+- **Track Transactions:**  
+  Easily add, categorize, and manage your income and expense transactions to keep a clear record of your finances.
+
+- **Filter Transactions:**  
+  Filter your transactions by month and category to analyze your spending habits in detail.
+
+- **Visualize Data with Charts:**  
+  - **Pie Chart:** Displays your expenses broken down by category for a quick snapshot of where your money goes.  
+  - **Bar Chart:** Shows net cash flow (income minus expenses) per month, helping you understand your financial trends over time.
+
+- **User Authentication:**  
+  Secure login and signup using your email address, allowing you to keep your data private and synced across devices. (Powered by Firebase/Auth0 or your chosen auth system.)
+
+- **Export Transactions:**  
+  Export your transaction data as a CSV file, making it easy to analyze your finances in spreadsheet applications like Excel or Google Sheets or keep backups.
+
+- **Savings Goals Tracking:**  
+  Set personalized savings goals and monitor your progress to stay motivated and financially disciplined.
+
+- **Responsive Design:**  
+  The app is designed to work smoothly on desktops, tablets, and smartphones, ensuring accessibility wherever you go.
+
+- **Future-ready:**  
+  Modular and clean code architecture to easily add new features such as notifications, budget alerts, or bank API integration.
 
 ---
 
@@ -26,6 +43,34 @@ This is a personal **Finance Tracker Dashboard** built with React, Firebase, and
 
 ---
 
+## Project Structure
+
+financely/
+│
+├── public/ 
+├── src/ 
+│ ├── assets/ 
+│ ├── components/ 
+│ │ ├── Button/
+│ │ ├── Cards/
+│ │ ├── ChartComponent/
+│ │ ├── Header/
+│ │ ├── Input/
+│ │ ├── Modals/
+│ │ ├── NoTransactions.js
+│ │ ├── SavingsGoals/
+│ │ ├── SignupSignin/
+│ │ └── TransactionsTable/
+│ ├── pages/ 
+│ ├── App.js 
+│ ├── index.js 
+│ └── index.css
+├── .gitignore 
+├── package.json 
+├── README.md 
+
+---
+
 ## 📁 Setup Instructions
 
 ### 1. Clone the Repo
@@ -33,3 +78,26 @@ This is a personal **Finance Tracker Dashboard** built with React, Firebase, and
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
+---
+
+## Future Enhancements
+
+I am open to suggestions and plan to continue developing this application with new ideas!
+
+---
+
+## Demo Video
+
+[![Watch the demo](https://youtu.be/qThq0x8-XFU?si=0hEFJ_bVSQ1_pQ-w)
+
+---
+
+## Contact
+
+Name : Sakshi Munavalli 
+Email: sakshimunavalli77@gmail.com  
+
+Feel free to reach out if you have any questions or feedback!
+
+---
