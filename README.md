@@ -77,6 +77,20 @@ I am open to suggestions and plan to continue developing this application with n
 
 ---
 
+## 📽️ Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/qThq0x8-XFU/0.jpg)](https://youtu.be/qThq0x8-XFU) 
+> Click the image above or [watch the demo on YouTube](https://youtu.be/qThq0x8-XFU) 
+
+---
+## 👤 Contact
+
+**Name:** Sakshi Munavalli 
+**Email:** [sakshimunavalli77@gmail.com 
+Feel free to reach out if you have any questions
+
+---
+
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository**
@@ -109,16 +123,4 @@ bash
 npm start
 
 ---
-
-## 📽️ Demo Video
-
-[![Watch the demo](https://img.youtube.com/vi/qThq0x8-XFU/0.jpg)](https://youtu.be/qThq0x8-XFU) 
-> Click the image above or [watch the demo on YouTube](https://youtu.be/qThq0x8-XFU) 
-
----
-## 👤 Contact
-
-**Name:** Sakshi Munavalli 
-**Email:** [sakshimunavalli77@gmail.com 
-Feel free to reach out if you have any questions
 
