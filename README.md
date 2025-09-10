@@ -77,6 +77,39 @@ I am open to suggestions and plan to continue developing this application with n
 
 ---
 
+## ⚙️ Setup Instructions
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/SakshiMunavalli77/FinanceFlow.git
+cd FinanceFlow
+
+2. **Install dependencies**
+
+bash
+npm install
+
+3. **Add Firebase Config**
+
+Create a .env file in the root
+
+Add your Firebase credentials:
+
+env
+REACT_APP_API_KEY=your_key
+REACT_APP_AUTH_DOMAIN=your_domain
+REACT_APP_PROJECT_ID=your_project_id
+REACT_APP_STORAGE_BUCKET=your_bucket
+REACT_APP_MESSAGING_SENDER_ID=your_sender_id
+REACT_APP_APP_ID=your_app_id
+
+4. **Run the App**
+
+bash
+npm start
+
+---
+
 ## 📽️ Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/qThq0x8-XFU/0.jpg)](https://youtu.be/qThq0x8-XFU) 
@@ -86,19 +119,6 @@ I am open to suggestions and plan to continue developing this application with n
 ## 👤 Contact
 
 **Name:** Sakshi Munavalli 
-**Email:** [sakshimunavalli77@gmail.com](mailto:sakshimunavalli77@gmail.com) 
+**Email:** [sakshimunavalli77@gmail.com 
 Feel free to reach out if you have any questions
-
----
-
-##  Setup Instructions
-
-### 📁 Clone the Repo
-
-```bash
-git clone https://github.com/SakshiMunavalli77/FinanceFlow.git
-cd FinanceFlow
-
-
----
 
