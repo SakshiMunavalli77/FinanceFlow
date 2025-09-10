@@ -81,7 +81,7 @@ I am open to suggestions and plan to continue developing this application with n
 
 [![Watch the demo](https://img.youtube.com/vi/qThq0x8-XFU/0.jpg)](https://youtu.be/qThq0x8-XFU) 
 > Click the image above or [watch the demo on YouTube](https://youtu.be/qThq0x8-XFU) 
-📄 [Download Project Report (PDF)]finance dashboard report.pdf
+[📄 [Download Project Report (PDF)]finance dashboard report.pdf](https://github.com/SakshiMunavalli77/FinanceFlow/blob/main/finance%20dashboard%20report.pdf)
 
 ---
 ## 👤 Contact
