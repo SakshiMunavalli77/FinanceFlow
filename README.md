@@ -81,6 +81,7 @@ I am open to suggestions and plan to continue developing this application with n
 
 [![Watch the demo](https://img.youtube.com/vi/qThq0x8-XFU/0.jpg)](https://youtu.be/qThq0x8-XFU) 
 > Click the image above or [watch the demo on YouTube](https://youtu.be/qThq0x8-XFU) 
+📄 [Download Project Report (PDF)](./Finance_Dashboard_Project_Report.pdf)
 
 ---
 ## 👤 Contact
